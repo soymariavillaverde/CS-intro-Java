@@ -5,7 +5,7 @@ package org.donbosco.myfirstbackapp;
 public class PrimitiveData {
     
     // atributos: valores/propiedades/características de una clase
-    String name;
+    private String name;
 
     
     
@@ -21,10 +21,25 @@ public class PrimitiveData {
         // asigna un valor variable al atributo name
         this.name = name;
     }
+
     
+    //Métodos - acciones
+    
+    public String getName() {
+        return name;
+    }
 
+    public void setName(String name) {
+        this.name = name;
+    }
 
-    //métodos
+    // Ejemplos de otros métodos (acciones)
+    public void printReversedDtring() {
 
+    };
+
+    public void removeAllVocals(){
+
+    }
 
 }
