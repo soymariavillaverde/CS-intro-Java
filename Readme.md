@@ -1,2 +1,2 @@
 # Clase intro Java
-ghghdgdrsg
+Este repositorio fue creado para explicar los conceptos básicos de Java

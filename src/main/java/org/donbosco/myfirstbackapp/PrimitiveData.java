@@ -22,9 +22,10 @@ public class PrimitiveData {
         this.name = name;
     }
 
+
     
     //Métodos - acciones
-    
+    //Getters (obtienen) y setters (asignan)
     public String getName() {
         return name;
     }

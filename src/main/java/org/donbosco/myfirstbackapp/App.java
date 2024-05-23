@@ -1,16 +1,12 @@
 package org.donbosco.myfirstbackapp;
-
-/**
- * Hello world!
- */
 public final class App {
     private App() {
     }
 
     // Método main base
-    /* public static void main(String[] args) {
-        System.out.println("Hello Wooorld!");
-    } */
+        /* public static void main(String[] args) {
+            System.out.println("Hello Wooorld!");
+        } */
 
 
     //Prueba de constructores
